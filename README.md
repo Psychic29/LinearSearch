@@ -8,6 +8,10 @@ Linear Search is defined as a `sequential` search algorithm that starts at one e
 - If x matches with an element, return the index.
 - If x doesn’t match with any of the elements, return -1.
 
+## Reference
+
+Read more on [GFG](https://www.geeksforgeeks.org/linear-search/)
+
 ## Author
 
 [@Psychic29](https://github.com/Psychic29)
